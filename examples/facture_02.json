@@ -1,0 +1,9 @@
+{
+  "number": "F-2026-002",
+  "customer": "Librairie du Centre",
+  "lines": [
+    {"description": "Livres scolaires", "unit_price": 12.90, "quantity": 3, "vat_rate": 0.055},
+    {"description": "Fournitures de bureau", "unit_price": 4.35, "quantity": 7, "vat_rate": 0.20},
+    {"description": "Journal quotidien", "unit_price": 1.15, "quantity": 9, "vat_rate": 0.021}
+  ]
+}
