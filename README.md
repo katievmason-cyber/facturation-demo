@@ -20,6 +20,12 @@ python -m facturation examples/facture_01.json
 python -m facturation examples/facture_02.json
 ```
 
+## Tests
+
+```bash
+python -m unittest -v
+```
+
 Requires Python 3.9+ and no external dependencies.
 
 *Nécessite Python 3.9+ et aucune dépendance externe.*
