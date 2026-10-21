@@ -1,0 +1,91 @@
+ticket_id,language,category,urgency,needs_review,review_reasons,urgency_reasons,subject,reply
+T-001,fr,billing,P2,no,,user blocked or wrong result ('incorrecte'),TVA incorrecte sur la facture F-2026-0412,"Bonjour Claire Martin,
+
+Merci de nous avoir contactés. Nous avons bien reçu votre demande (T-001). Notre équipe facturation examine votre dossier et reviendra vers vous avec une réponse précise. Nous revenons vers vous dans les meilleurs délais.
+
+Cordialement,
+L'équipe Support"
+T-002,fr,billing,P1,yes,refund requested,always P1: payment charged twice ('debite deux fois'),Paiement débité deux fois,"Bonjour Julien Moreau,
+
+Merci de nous avoir contactés. Nous avons bien reçu votre demande (T-002). Notre équipe facturation examine votre dossier et reviendra vers vous avec une réponse précise. Votre demande est traitée en priorité absolue.
+
+Cordialement,
+L'équipe Support"
+T-003,fr,bug,P1,no,,critical impact ('toute l equipe'),Plus aucune facture ne se génère - URGENT,"Bonjour Sophie Lefèvre,
+
+Merci de nous avoir contactés. Nous avons bien reçu votre demande (T-003). Nous avons transmis le problème à notre équipe technique afin qu'elle le reproduise et le corrige. Si vous en avez une, n'hésitez pas à nous envoyer une capture d'écran. Votre demande est traitée en priorité absolue.
+
+Cordialement,
+L'équipe Support"
+T-004,fr,access,P2,no,,user blocked or wrong result ('impossible'),Impossible de me connecter,"Bonjour Thomas Bernard,
+
+Merci de nous avoir contactés. Nous avons bien reçu votre demande (T-004). Pour votre sécurité, nous allons vérifier votre compte avant de rétablir votre accès. Nous ne vous demanderons jamais votre mot de passe. Nous revenons vers vous dans les meilleurs délais.
+
+Cordialement,
+L'équipe Support"
+T-005,fr,access,P1,yes,possible security incident,critical impact ('personne ne peut'),Compte administrateur verrouillé,"Bonjour Camille Dubois,
+
+Merci de nous avoir contactés. Nous avons bien reçu votre demande (T-005). Pour votre sécurité, nous allons vérifier votre compte avant de rétablir votre accès. Nous ne vous demanderons jamais votre mot de passe. Votre demande est traitée en priorité absolue.
+
+Cordialement,
+L'équipe Support"
+T-006,fr,other,P3,no,,no impact keywords: question or request,Suggestion : export vers Sage,"Bonjour Nicolas Petit,
+
+Merci de nous avoir contactés. Nous avons bien reçu votre demande (T-006). Nous transmettons votre message à l'équipe concernée. Nous vous répondrons dans les prochains jours.
+
+Cordialement,
+L'équipe Support"
+T-007,fr,other,P3,yes,personal data request (GDPR),no impact keywords: question or request,Demande de suppression de données (RGPD),"Bonjour Émilie Roux,
+
+Merci de nous avoir contactés. Nous avons bien reçu votre demande (T-007). Nous transmettons votre message à l'équipe concernée. Nous vous répondrons dans les prochains jours.
+
+Cordialement,
+L'équipe Support"
+T-008,fr,billing,P1,no,,always P1: payment blocked ('paiement' ... 'refuse'),"Paiement refusé, abonnement suspendu","Bonjour Antoine Girard,
+
+Merci de nous avoir contactés. Nous avons bien reçu votre demande (T-008). Notre équipe facturation examine votre dossier et reviendra vers vous avec une réponse précise. Votre demande est traitée en priorité absolue.
+
+Cordialement,
+L'équipe Support"
+T-009,en,billing,P1,yes,refund requested,always P1: payment charged twice ('charged twice'),Charged twice for October,"Hello Sarah Thompson,
+
+Thank you for getting in touch. We have received your request (T-009). Our billing team is reviewing your account and will come back to you with a clear answer. Your request is being handled as a top priority.
+
+Kind regards,
+The Support Team"
+T-010,en,bug,P2,no,,user blocked or wrong result ('crashes'),PDF export crashes,"Hello James Wilson,
+
+Thank you for getting in touch. We have received your request (T-010). We have passed the issue to our technical team so they can reproduce and fix it. If you have a screenshot, please feel free to send it to us. We will get back to you as soon as possible.
+
+Kind regards,
+The Support Team"
+T-011,en,access,P1,no,,critical impact ('whole team'),Can't log in with SSO,"Hello Emma Clarke,
+
+Thank you for getting in touch. We have received your request (T-011). For your security, we will verify your account before restoring access. We will never ask you for your password. Your request is being handled as a top priority.
+
+Kind regards,
+The Support Team"
+T-012,en,billing,P3,no,,no impact keywords: question or request,Question about pricing for 20 users,"Hello Oliver Brown,
+
+Thank you for getting in touch. We have received your request (T-012). Our billing team is reviewing your account and will come back to you with a clear answer. We will reply within the next few days.
+
+Kind regards,
+The Support Team"
+T-013,en,billing,P1,no,,always P1: payment blocked ('payment' ... 'blocked'),Payment blocked at checkout,"Hello Priya Patel,
+
+Thank you for getting in touch. We have received your request (T-013). Our billing team is reviewing your account and will come back to you with a clear answer. Your request is being handled as a top priority.
+
+Kind regards,
+The Support Team"
+T-014,en,other,P3,yes,no category keywords matched,no impact keywords: question or request,Hello,"Hello Daniel Hughes,
+
+Thank you for getting in touch. We have received your request (T-014). We are forwarding your message to the right team. We will reply within the next few days.
+
+Kind regards,
+The Support Team"
+T-015,en,access,P3,no,,no impact keywords: question or request,Invitation link expired,"Hello Laura Mitchell,
+
+Thank you for getting in touch. We have received your request (T-015). For your security, we will verify your account before restoring access. We will never ask you for your password. We will reply within the next few days.
+
+Kind regards,
+The Support Team"
